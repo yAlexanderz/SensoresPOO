@@ -147,7 +147,7 @@ git clone https://github.com/yAlexanderz/Av1-POO
 Clona o repositório na sua maquina.
 
 ```batch
-cd Av1-POO
+cd SensoresPOO
 ```
 Entra no root do programa, apenas aí poderá ser executado os scripts.
 
