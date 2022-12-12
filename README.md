@@ -142,7 +142,7 @@ Abra o Prompt de Commandos (cmd).
 Execute os seguintes comandos.
 
 ```batch
-git clone https://github.com/yAlexanderz/Av1-POO
+git clone https://github.com/yAlexanderz/SensoresPOO
 ```
 Clona o repositório na sua maquina.
 
